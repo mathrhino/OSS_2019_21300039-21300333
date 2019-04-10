@@ -16,7 +16,7 @@ else
                 ((final=$first+$second))
                 first=$second
                 second=$final
- 
- 	done
-        echo "fib($num)=$final"
+        done
+
+	echo "fib($num)=$final"
 fi
